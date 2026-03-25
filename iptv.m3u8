@@ -1,4 +1,187 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Belarus" tvg-country="BY",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Belarus" tvg-country="BY",СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Bosnia and Herzegovina" tvg-country="BA",BN Televizija
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Croatia" tvg-country="HR",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Croatia" tvg-country="HR",Extra TV
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Croatia" tvg-country="HR",Nova TV
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Croatia" tvg-country="HR",RTL
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Croatia" tvg-country="HR",RTL 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Dominican Republic" tvg-country="DO",88 Stereo
+http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",RTK 1
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",Syri TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",TV Arbëria
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Kosovo and Metohija" tvg-country="XK",TV Prizren
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",M-Net HD
+https://live.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="North Macedonia" tvg-country="MK",Sky Folk TV
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",10 канал Новокузнецк
+http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",8 Канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",8 Канал Европа
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",8 Канал Новосибирск
+http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",First Music channel HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Maidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Motors TV
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",OVA TV
+http://tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Russian JahrMarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Shopping Live
+http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Аист ТВ Ликино-Дулево
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Алмазный край HD
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Байкал Универ ТВ
+http://stream01.bgu.ru:8081/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Башкортостан 24 HD
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Витрина ТВ
+http://v4.proofix.ru:80/vitrina-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Волга 24
+http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Дзержинск ТВ HD
+https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Колыма Плюс ТВ
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Красная линия ТВ
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Кузбасс 1 HD
+http://rmhkuzbass.ru:8082/10kanal/k24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Ленинск ТВ Плюс
+http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Мамонт ТВ HD
+http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",ННТВ Нижний Новгород
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Нижний Новгород 24 HD
+http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Осетия-Ирыстон
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Панорама ТВ Тверь
+http://stream.fastlnk.ru:88/Panorama_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Радио Говорит Москва
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Раменское ТВ
+https://e10-ll.facecast.net/rtv/1.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",СТВ/Продвижение +4 Стрежевой
+https://live.stv-tv.ru/playlist2.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Саратов 24
+http://109.248.11.19:8081/web/c24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Саров 24
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Сибай ТВ
+http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Старт HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",ТВК HD
+http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",ТНВ Планета
+http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Танец ТВ HD
+https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Теледом ТВ
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Тосно ТВ
+http://tosnotv.ru/hlsshare/video.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Туган Тел HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Шансон ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Эхо ТВ 24 Новоуральск
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Russia" tvg-country="RU",Якутия 24
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdeA1Cn.png" group-title="Serbia" tvg-country="RS",DM Sat
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",KTV Zrenjanin
+https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",N1 Info
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dua57HD.png" group-title="Serbia" tvg-country="RS",Narodna TV
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",NewsMax TV
+https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Serbia" tvg-country="RS",Pink TV
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",RED TV
+https://edge8.pink.rs/redtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",RT Balkan
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjunOdy.png" group-title="Serbia" tvg-country="RS",RTS Svet HD
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gP2OT4S.png" group-title="Serbia" tvg-country="RS",Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g2HpLX1.png" group-title="Serbia" tvg-country="RS",Radio Karolina TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Serbia" tvg-country="RS",Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="Serbia" tvg-country="RS",Sandzak TV
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/POdTmaD.png" group-title="Serbia" tvg-country="RS",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",TV BelleAmie
+http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8
+#EXTINF:-1 tvg-logo="https://balkanmedia.at.ua/fm/images/opentv.png" group-title="Serbia" tvg-country="RS",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LI30mAt.png" group-title="Afghanistan" tvg-country="AF",ABN Afghanistan
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-logo="https://i.imgur.com/r8MmFRX.png" group-title="Afghanistan" tvg-country="AF",Afghanistan International
